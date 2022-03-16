@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Joey's Contact Page</title>
+  </head>
+  <body>
+    <h1>Contact Details</h1>
+    <ul>
+    <li>Phone Number= 817-680-2646</li>
+    <li>Email= Dirtbikejoey684@gmail.com</li>
+    <li>Twitch= Cowboygaming19</li>
+    </ul>
+  </body>
+</html>
